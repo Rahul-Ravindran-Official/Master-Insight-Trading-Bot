@@ -14,4 +14,9 @@ add_executable(
         Enums/E_BHS.cpp
         Enums/E_BBHSS.cpp
         Structs/S_Order.cpp
-        Structs/S_Ticket.cpp Headers/H_MQL_Functions.h)
+        Structs/S_Ticket.cpp
+        Headers/H_MQL_Functions.h
+        Sources/Trade_Entry.cpp
+        Headers/Indicator_Compositioners/H_Potential_Trade_Entry_Detector.h
+        Enums/E_Risk_Appetite.cpp
+)

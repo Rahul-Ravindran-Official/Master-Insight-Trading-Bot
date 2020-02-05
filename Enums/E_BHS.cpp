@@ -3,7 +3,7 @@
 //
 
 enum E_BHS{
-    BUY = 1,
-    HOLD = 0,
-    SELL = -1
+    BHS_BUY = 1,
+    BHS_HOLD = 0,
+    BHS_SELL = -1
 };
