@@ -21,4 +21,4 @@ add_executable(
         Enums/E_Risk_Appetite.cpp
         Headers/Indicators/H_Indicator.h
         Structs/S_Indicator_Data.cpp
-)
+        Headers/Indicators/Trend/Single_Moving_Average.cpp)
