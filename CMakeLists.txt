@@ -19,4 +19,6 @@ add_executable(
         Sources/Trade_Entry.cpp
         Headers/Indicator_Compositioners/H_Potential_Trade_Entry_Detector.h
         Enums/E_Risk_Appetite.cpp
+        Headers/Indicators/H_Indicator.h
+        Structs/S_Indicator_Data.cpp
 )
